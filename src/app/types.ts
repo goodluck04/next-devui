@@ -8,7 +8,7 @@ type RegisterAPIType = {
   type AuthValidationType = {
     name?: string;
     email?: string;
-    password?: string;
+    password?: string; 
   };
 type AuthErrorType = {
     name?: string;
